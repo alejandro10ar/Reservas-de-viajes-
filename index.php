@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=devidev-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Online Ticket Reservation</title>
+	<title>Reservacion de Ticketes En Line</title>
 	
 	
 <!-- [ FONT-AWESOME ICON ] 
