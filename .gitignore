@@ -1,0 +1,44 @@
+
+# Creado por https://www.gitignore.io/api/bower,windows,composer
+# Editar en https://www.gitignore.io/?templates=bower,windows,composer
+
+### Bower ###
+bower_components
+.bower-cache
+.bower-registry
+.bower-tmp
+
+### Compositor ###
+compositor.phar
+/vendedor/
+
+# Confirme el archivo de bloqueo de su aplicación https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
+# Puede elegir ignorar un archivo de bloqueo de biblioteca http://getcomposer.org/doc/02-libraries.md#lock-file
+# composer.lock
+
+### Windows ###
+# Archivos de caché de miniaturas de Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Archivo de volcado
+* .stackdump
+
+# Archivo de configuración de la carpeta
+[Dd] esktop.ini
+
+# Papelera de reciclaje usada en archivos compartidos
+$ RECICLAR.BIN /
+
+# Archivos de Windows Installer
+*.taxi
+* .msi
+* .msix
+* .msm
+* .msp
+
+# Atajos de Windows
+* .lnk
+
+# Fin de https://www.gitignore.io/api/bower,windows,composer
